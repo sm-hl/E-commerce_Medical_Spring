@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Oooh+Baby&family=Twinkle+Star&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,900&display=swap');
+
+
+
+.pimed-logo{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 25px;
+}
+
+.title-about{
+    letter-spacing: 20px;
+    text-align: center;
+    font-size: 400%;
+    padding: 100px 0px 0px 0px;
+    color:  maroon;
+}
+
+.title-content-about{
+    font-family: sans-serif;
+    font-size: 40px;
+    padding: 50px;
+    margin-top: 22px;
+}
+
+.equipe-pay{
+    width: 50%;
+    height: 100%;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+
+.text{
+    font-family:  sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color:black;
+    letter-spacing: 1px;
+    text-align: justify;
+}
+
+
+

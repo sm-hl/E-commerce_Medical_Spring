@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,900&display=swap');
+
+
+
+.pimed-logo{
+    font-family: 'Playfair Display SC', serif;
+    font-size: 25px;
+}
+
+.u-section-1 {
+  min-height: 874px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: calc(((100% - 1140px) / 2) + -57px);
+  background-image: none;
+  left: 0;
+  right: auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: calc(((100% - 1140px) / 2) + -51px);
+  background-image: none;
+  left: auto;
+  right: 0;
+}
+
+.u-section-1 .u-product-1 {
+  min-height: 600px;
+  width: 1128px;
+  margin: 53px calc(((100% - 1140px) / 2)) 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 508px;
+  height: 486px;
+  margin: 63px auto 0 20px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.25rem;
+  margin: -460px 332px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 63px 202px 0 555px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 69px;
+  height: 3px;
+  transform-origin: left center 0px;
+  margin: 118px 444px 0 auto;
+}
+
+.u-section-1 .u-product-variations-1 {
+  width: 200px;
+  margin: 29px 322px 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 39px 267px 0 auto;
+  padding: 13px 42px 13px 41px;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-image: none;
+  margin: -55px 46px 0 auto;
+  padding: 13px 53px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    width: 104px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 940px) / 2) + -51px);
+  }
+
+  .u-section-1 .u-product-1 {
+    height: auto;
+    width: 940px;
+    margin-top: -425px;
+    margin-right: calc(((100% - 940px) / 2));
+    margin-left: calc(((100% - 1140px) / 2) + 100px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 274px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 307px;
+    margin-left: 461px;
+  }
+
+  .u-section-1 .u-line-1 {
+    transform-origin: left center;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 79px;
+    padding-left: 108px;
+    padding-right: 108px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+    padding-right: 120px;
+    padding-left: 119px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 720px) / 2) + -51px);
+  }
+
+  .u-section-1 .u-product-1 {
+    width: 720px;
+    margin-right: calc(((100% - 720px) / 2));
+    margin-left: calc(((100% - 1140px) / 2) + 210px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 206px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 230px;
+    margin-left: 349px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+    padding-left: 66px;
+    padding-right: 66px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    padding-right: 78px;
+    padding-left: 77px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 540px) / 2) + -51px);
+  }
+
+  .u-section-1 .u-product-1 {
+    width: 540px;
+    margin-right: calc(((100% - 540px) / 2));
+    margin-left: calc(((100% - 1140px) / 2) + 300px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 12px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 162px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 181px;
+    margin-left: 209px;
+  }
+
+  .u-section-1 .u-product-variations-1 {
+    margin-right: 320px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-2 {
+    width: calc(((100% - 340px) / 2) + -51px);
+  }
+
+  .u-section-1 .u-product-1 {
+    width: 340px;
+    margin-right: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 1140px) / 2) + 400px);
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 320px;
+    height: 306px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -280px;
+    margin-right: 100px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -362px;
+    margin-right: 111px;
+    margin-left: 9px;
+  }
+
+  .u-section-1 .u-line-1 {
+    transform-origin: left center 0px;
+    margin-right: 251px;
+  }
+
+  .u-section-1 .u-product-variations-1 {
+    margin-right: 120px;
+  }
+}
+
